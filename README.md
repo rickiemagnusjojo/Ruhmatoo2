@@ -19,6 +19,21 @@ Pakutud tähed värvitakse roheliseks (täht on sõnas) või punaseks (täht pol
 Mängu lõppedes kuvatakse tulemus ja mängija saab alustada uut mängu.
 Iga mängu tulemus salvestatakse faili tulemused.txt.
 
+# NÄITED TÖÖST:
+
+<img width="447" height="470" alt="image" src="https://github.com/user-attachments/assets/b8c7c9a4-d444-4da6-9570-1494ab4d5c48" />
+
+<img width="446" height="470" alt="image" src="https://github.com/user-attachments/assets/e325ae54-8f9d-430d-8018-4e8b7b384738" />
+
+<img width="446" height="468" alt="image" src="https://github.com/user-attachments/assets/8822811c-4310-4718-9600-6cc0f5d99819" />
+
+<img width="446" height="470" alt="image" src="https://github.com/user-attachments/assets/1907077f-e16b-453f-bbb6-8d8b79428f17" />
+
+
+
+
+
+
 # KLASSID:
 ### Main
 Käivitab JavaFX rakenduse ja loob peaakna koos SonaLugeja objektiga.
